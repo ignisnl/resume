@@ -1,0 +1,157 @@
+cv:
+  name: Lorenzo Grillo
+  location: Sydney, AU
+  email: lgrillo0413@gmail.com
+  phone: tel:+61-481-387-110
+  website: https://ignisnl.github.io/
+  social_networks:
+    - network: LinkedIn
+      username: lgrillo0413
+    - network: GitHub
+      username: ignisnl
+  sections:
+    technologies:
+      - label: Languages
+        details: C, C++, Java, SQL, Rust, Python, Shell, JS, TS, Haskell, MIPS assembly
+      - label: Frameworks and tools
+        details: ReactJS, Docker, \LaTeX, Git
+    education:
+      - institution: University of New South Wales (UNSW)
+        area: Computer Science
+        degree: BSc
+        start_date: 2021-02
+        end_date: 2025-01
+        highlights:
+          - "**Distinction** average - **83.125** WAM"
+          - 2021 Dean's Honour List (Engineering faculty)
+          - "Notable COMP course marks available at [ignisnl.github.io/marks](https://ignisnl.github.io/marks/)"
+      - institution: Sydney Grammar School
+        area: Higher School Certificate
+        start_date: 2015-01
+        end_date: 2020-11
+        highlights:
+          - "**98.35** ATAR"
+          - Holder of the **Alistair Mackerras Scholarship** - one of 24 full, 6-year academic scholarships
+          - Academic Exhibition - award for **High Distinction** average
+    projects:
+      - name: Personal website (ReactJS)
+        date: 2024-12
+        highlights:
+          - Built on the React Router v7 framework, frontend written in MUI Material UI
+          - Custom theming provided to ensure responsive UI on all device sizes
+          - Source code at [github.com/ignisnl/ignisnl.github.io](https://github.com/ignisnl/ignisnl.github.io/)
+      - name: Self-sovereign identity (SSI) system libraries
+        start_date: 2024-06
+        end_date: 2024-07
+        highlights:
+          - Capstone project - collaborated with 4 final-year CS students to deliver client-focused solution for CyberSec research student
+          - A full implementation of 3 components of an SSI system - business logic in Python for the credential holder's wallet, the issuer's issuance system, and the verifier's presentation handler, and an example wallet frontend in ReactJS
+          - Consulted with a client to clarify project requirements and negotiate specific SSI credential protocols required for specific milestones
+          - Executed upon all requirements within 3 sprints of 3 weeks each, ensuring procedure-related improvements discussed in post-sprint reflection meetings were implemented
+          - Source code at [github.com/the-cs-goons/capstone-project](https://github.com/the-cs-goons/capstone-project/)
+    experience:
+      - company: Seek Pass (formerly Certsy)
+        position: Verification Officer
+        location: North Sydney, NSW
+        start_date: 2022-09
+        end_date: 2024-03
+        highlights:
+          - Inspected and processed 800+ credentials per day against government databases in a secure and efficient manner
+          - Advocated for and benchmarked improvements to the Verification Officer workflow such as improved tracking of completed credentials and automated credential switching
+          - Provided training data for ML-powered parsing of Australian Driver's Licences (reduced no. manual verifications needed by >50%)
+          - Constructed flowcharts for multiple document verification workflows for use in internal documentation
+      - company: Amici Ristorante Pizzeria
+        position: Waiter and Technical Assistant
+        location: Cammeray, NSW
+        start_date: 2021-12
+        end_date: 2022-09
+        highlights:
+          - Set up and managed restaurant website and online ordering page viewed by 3,000+ visitors a month
+          - Provided high-quality customer service to 30+ customers per night while taking online and phone takeaway orders
+          - Provided delivery services in the local Lower North Shore area, servicing up to 20 orders per night
+      - company: Kmart
+        position: Customer Service Assistant
+        location: Brookvale, NSW
+        start_date: 2021-04
+        end_date: 2021-06
+        highlights:
+          - Contributed to initial set-up of store at new location, populating all warehouse and floor shelving within 2 weeks
+          - Performed and collaborated with floor and warehouse managers on multiple facets of floor operation in a busy mall location, including friendly customer service, restocking, cashier operation, and processing returns
+      - company: Dymocks Tutoring
+        position: Tutor and Content Writer
+        location: Parramatta, NSW
+        start_date: 2021-01
+        end_date: 2021-11
+        highlights:
+          - Developed lesson plans for and conducted 3 weekly lessons, each with 5+ students, for Mathematics curricula from primary to HSC level
+          - Produced tailored lesson and homework plans to cater to the differing abilities of students within each class
+          - Identified and communicated students in need of particular attention to support team, collaborated with team to develop special education plans and adjust for different levels of proficiency and study styles
+    extracurricular_involvement:
+      - company: UNSW Tabletop Games Society
+        position: Events Subcommittee Member
+        location: Kensington, NSW
+        start_date: 2022-03
+        end_date: 2023-02
+        highlights:
+          - Assisted new and returning students at weekly boardgame events attended by 20+ in learning how to play in-depth boardgames and utilise advanced strategies
+          - Regularly attended weekly meetings to learn new boardgames in order to broaden scope for recommendations and tips
+          - Collaborated with other Subcommittee members to supervise out-of-campus events such as picnics and movie nights
+    skills:
+      - bullet: Program safety and correctness
+      - bullet: Algorithm design
+      - bullet: '"Informal" verification methods'
+      - bullet: Static program semantics
+      - bullet: Systems-level programming
+      - bullet: RESTful API design
+      - bullet: JS frontend frameworks
+      - bullet: Functional programming
+      - bullet: API design and refactoring
+      - bullet: Set-up and use of CI/CD technologies
+      - bullet: Efficient use of version control software (Git)
+      - bullet: Agile methodology - Sprint/Scrum teams
+      - bullet: Effective communication and team collaboration in work environment settings
+      - bullet: Eagerness to complete work according to strict and structured protocols
+      - bullet: Meticulous attention to detail
+      - bullet: Highly adaptable to flexible and changing stakeholder requirements
+      - bullet: Avid collaborator who is eager to share and iterate upon ideas with team members
+    references:
+      - Available upon request.
+design:
+  theme: classic
+  font: Source Sans 3
+  font_size: 10pt
+  page_size: a4paper
+  color: "#004f90"
+  disable_external_link_icons: false
+  disable_page_numbering: false
+  page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  disable_last_updated_date: false
+  last_updated_date_style: Last updated in TODAY
+  header_font_size: 30 pt
+  text_alignment: justified
+  seperator_between_connections: ""
+  use_icons_for_connections: false
+  margins:
+    page:
+      top: 2 cm
+      bottom: 2 cm
+      left: 2 cm
+      right: 2 cm
+    section_title:
+      top: 0.3 cm
+      bottom: 0.2 cm
+    entry_area:
+      left_and_right: 0.2 cm
+      vertical_between: 0.2 cm
+      date_and_location_width: 4.5 cm
+      education_degree_width: 1 cm
+    highlights_area:
+      top: 0.10 cm
+      left: 0.4 cm
+      vertical_between_bullet_points: 0.10 cm
+    header:
+      vertical_between_name_and_connections: 0.3 cm
+      bottom: 0.3 cm
+      horizontal_between_connections: 0.5 cm
+  show_timespan_in:
+    - Experience
