@@ -1,13 +1,13 @@
-name: Release a CV
+name: Release a resume
 
 on:
   push:
     tags:
       - "*" # Any tag pushed to the repository
-      
+
 permissions:
   contents: write
-  
+
 jobs:
   call_rendercv_workflow:
     name: RenderCV
@@ -28,7 +28,7 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           files: |
-            rendercv_output/*_CV.pdf
-            rendercv_output/*_CV.tex
+            rendercv_output/*_Resume.pdf
+            rendercv_output/*_Resume.tex
           generate_release_notes: true
           make_latest: true
