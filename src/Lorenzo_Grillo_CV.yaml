@@ -22,7 +22,7 @@ cv:
         start_date: 2021-02
         end_date: 2025-01
         highlights:
-          - "**Distinction** average - **83.125** Weighted Average Mark"
+          - "**Distinction** average - **83.125** WAM"
           - 2021 Dean's Honour List (Engineering faculty)
           - "Notable COMP course marks available at [ignisnl.github.io/marks](https://ignisnl.github.io/marks/)"
       - institution: Sydney Grammar School
@@ -30,7 +30,7 @@ cv:
         start_date: 2015-01
         end_date: 2020-11
         highlights:
-          - 98.35 ATAR
+          - "**98.35** ATAR"
           - Holder of the **Alistair Mackerras Scholarship** - one of 24 full academic scholarships
           - Academic Exhibition - award for **High Distinction** average
     projects:
