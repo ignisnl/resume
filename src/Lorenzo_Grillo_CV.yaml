@@ -12,15 +12,15 @@ cv:
   sections:
     technologies:
       - label: Languages
-        details: C, C++, Rust, Java, SQL, Python, JS, TS, Haskell
+        details: C, C++, Java, SQL, Rust, Python, Shell, JS, TS, Haskell, MIPS assembly
       - label: Frameworks and tools
-        details: ReactJS, Docker
+        details: ReactJS, Docker, $\LaTeX$
     education:
       - institution: University of New South Wales (UNSW)
         area: Computer Science
         degree: BSc
         start_date: 2021-02
-        end_date: 2025-03
+        end_date: 2025-01
         highlights:
           - "**Distinction** average - **83.125** Weighted Average Mark"
           - 2021 Dean's Honour List (Engineering faculty)
@@ -33,17 +33,7 @@ cv:
           - 98.35 ATAR
           - Holder of the **Alistair Mackerras Scholarship** - one of 24 full academic scholarships
           - Academic Exhibition - award for **High Distinction** average
-    relevant_experience:
-      - company: Dymocks Tutoring
-        position: Tutor and Content Writer
-        location: Parramatta, NSW
-        start_date: 2021-01
-        end_date: 2021-11
-        highlights:
-          - Developed lesson plans for and conducted 3 weekly lessons, each with 5+ students, for Mathematics curricula from primary to HSC level
-          - Produced tailored lesson and homework plans to cater to the differing abilities of students within each class
-          - Identified and communicated students in need of particular attention to support team, collaborated with team to develop special learning plans and adjust for different levels of proficiency and learning styles
-    additional_experience:
+    experience:
       - company: Seek Pass (formerly Certsy)
         position: Verification Officer
         location: North Sydney, NSW
@@ -71,6 +61,15 @@ cv:
         highlights:
           - Contributed to initial set-up of store at new location, populating all warehouse and floor shelving within 2 weeks
           - Performed and collaborated with floor and warehouse managers on multiple facets of floor operation in a busy mall location, including friendly customer service, restocking, cashier operation, and processing returns
+      - company: Dymocks Tutoring
+        position: Tutor and Content Writer
+        location: Parramatta, NSW
+        start_date: 2021-01
+        end_date: 2021-11
+        highlights:
+          - Developed lesson plans for and conducted 3 weekly lessons, each with 5+ students, for Mathematics curricula from primary to HSC level
+          - Produced tailored lesson and homework plans to cater to the differing abilities of students within each class
+          - Identified and communicated students in need of particular attention to support team, collaborated with team to develop special learning plans and adjust for different levels of proficiency and learning styles
     extracurricular_involvement:
       - company: UNSW Tabletop Games Society
         position: Events Subcommittee Member
