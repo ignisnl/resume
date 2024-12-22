@@ -14,7 +14,7 @@ cv:
       - label: Languages
         details: C, C++, Java, SQL, Rust, Python, Shell, JS, TS, Haskell, MIPS assembly
       - label: Frameworks and tools
-        details: ReactJS, Docker, $\LaTeX$
+        details: ReactJS, Docker, \LaTeX
     education:
       - institution: University of New South Wales (UNSW)
         area: Computer Science
