@@ -33,6 +33,22 @@ cv:
           - 98.35 ATAR
           - Holder of the **Alistair Mackerras Scholarship** - one of 24 full academic scholarships
           - Academic Exhibition - award for **High Distinction** average
+    projects:
+      - name: Personal website (ReactJS)
+        date: 2024-12
+        highlights:
+          - Built on the React Router v7 framework, frontend written in MUI Material UI
+          - Custom theming provided to ensure responsive UI on all device sizes
+          - Source code at [github.com/ignisnl/ignisnl.github.io](https://github.com/ignisnl/ignisnl.github.io/)
+      - name: Self-sovereign identity (SSI) system libraries
+        start_date: 2024-06
+        end_date: 2024-07
+        highlights:
+          - Capstone project, collaboration with 4 other final-year CS students
+          - A full implementation of the 3 components of an SSI system - the business logic for the credential holder's wallet, the credential issuer's issuance system, and the credential verifier's presentation handler, all written in Python; and an example credential wallet frontend written in ReactJS
+          - Consulted with our client to clarify project requirements and negotiate specific SSI credential protocols required for specific milestones
+          - Executed upon all requirements within 3 sprints of 3 weeks each, ensuring procedure-related improvements discussed in post-sprint reflection meetings were implemented
+          - Source code at [github.com/the-cs-goons/capstone-project](https://github.com/the-cs-goons/capstone-project/)
     experience:
       - company: Seek Pass (formerly Certsy)
         position: Verification Officer
