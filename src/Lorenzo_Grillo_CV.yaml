@@ -14,7 +14,7 @@ cv:
       - label: Languages
         details: C, C++, Java, SQL, Rust, Python, Shell, JS, TS, Haskell, MIPS assembly
       - label: Frameworks and tools
-        details: ReactJS, Docker, \LaTeX
+        details: ReactJS, Docker, \LaTeX, Git
     education:
       - institution: University of New South Wales (UNSW)
         area: Computer Science
@@ -106,6 +106,8 @@ cv:
       - bullet: JS frontend frameworks
       - bullet: Functional programming
       - bullet: API design and refactoring
+      - bullet: Set-up and use of CI/CD technologies
+      - bullet: Efficient us of version control software (Git)
       - bullet: Working and communicating effectively in a Sprint team
       - bullet: Eagerness to complete work according to strict and structured protocols
       - bullet: Meticulous attention to detail
