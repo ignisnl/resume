@@ -45,7 +45,7 @@ cv:
         end_date: 2024-07
         highlights:
           - Capstone project - collaborated with 4 final-year CS students to deliver client-focused solution for CyberSec research student
-          - A full implementation of 3 components of an SSI system - business logic for the credential holder's wallet, the issuer's issuance system, and the verifier's presentation handler, all in Python; and an example credential wallet frontend in ReactJS
+          - A full implementation of 3 components of an SSI system - business logic in Python for the credential holder's wallet, the issuer's issuance system, and the verifier's presentation handler, and an example wallet frontend in ReactJS
           - Consulted with a client to clarify project requirements and negotiate specific SSI credential protocols required for specific milestones
           - Executed upon all requirements within 3 sprints of 3 weeks each, ensuring procedure-related improvements discussed in post-sprint reflection meetings were implemented
           - Source code at [github.com/the-cs-goons/capstone-project](https://github.com/the-cs-goons/capstone-project/)
