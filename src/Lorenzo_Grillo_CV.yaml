@@ -50,6 +50,12 @@ cv:
           - Executed upon all requirements within 3 sprints of 3 weeks each, ensuring procedure-related improvements discussed in post-sprint reflection meetings were implemented
           - Source code at [github.com/the-cs-goons/capstone-project](https://github.com/the-cs-goons/capstone-project/)
     experience:
+      - company: UNSW
+        position: Casual Academic
+        location: Kensington, NSW
+        start_date: 2025-02
+        highlights:
+          - Tutor and help session assistant for COMP6991 - "Solving Modern Programming Problems with Rust"
       - company: Seek Pass (formerly Certsy)
         position: Verification Officer
         location: North Sydney, NSW
