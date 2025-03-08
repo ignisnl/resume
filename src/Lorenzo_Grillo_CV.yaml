@@ -34,12 +34,6 @@ cv:
           - Holder of the **Alistair Mackerras Scholarship** - one of 24 full, 6-year academic scholarships
           - Academic Exhibition - award for **High Distinction** average
     projects:
-      - name: Personal website (ReactJS)
-        date: 2024-12
-        highlights:
-          - Built on the React Router v7 framework, frontend written in MUI Material UI
-          - Custom theming provided to ensure responsive UI on all device sizes
-          - Source code at [github.com/ignisnl/ignisnl.github.io](https://github.com/ignisnl/ignisnl.github.io/)
       - name: Self-sovereign identity (SSI) system libraries
         start_date: 2024-06
         end_date: 2024-07
